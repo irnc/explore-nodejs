@@ -6,4 +6,5 @@
 
 ## See also
 
+* https://github.com/irnc/explore-npm
 * https://github.com/irnc/explore-javascript
